@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545216301510",
+    "project_id": "campus-lost-found-ff586",
+    "storage_bucket": "campus-lost-found-ff586.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545216301510:android:1dd777db8b12c3271e0ac7",
+        "android_client_info": {
+          "package_name": "com.example.campus_lost_found_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4wtIYpWodiNxkY0nbi6EMrotU1ABA5Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
